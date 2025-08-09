@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InchesToCentimeters</string>
+    <string name="button_covert">Convert</string>
+    <string name="text">Please Enter Number</string>
+</resources>
